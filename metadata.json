@@ -1,0 +1,5 @@
+{
+  "name": "TB Render Video Generation",
+  "description": "A powerful tool to submit and manage a large queue of video generation jobs using the Gemini API, with customizable parameters, concurrency control, and automated processing.",
+  "requestFramePermissions": []
+}
